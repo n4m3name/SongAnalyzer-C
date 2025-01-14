@@ -71,5 +71,3 @@ gcc -o song_analyzer song_analyzer.c list.c emalloc.c -Wall
 - Juan G.
 - Angadh S.
 - Evan S.
-
-This implementation demonstrates practical application of data structures and memory management in C programming.
